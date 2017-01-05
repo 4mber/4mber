@@ -1,11 +1,5 @@
 /* Page-Wide */
 
-@import url(http://weloveiconfonts.com/api/?family=fontawesome);
-
-[class*="fontawesome-"]:before {
-  font-family: 'fontawesome', sans-serif;
-}
-
 * {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
