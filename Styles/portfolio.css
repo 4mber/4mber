@@ -65,6 +65,7 @@ article:last-of-type {
     width: 50%;
     font-size: 2em;
     text-align: right;
+    vertical-align: center;
 }
 
 .blackicons {
