@@ -65,11 +65,11 @@ article:last-of-type {
     width: 50%;
     font-size: 2em;
     text-align: right;
-    vertical-align: middle;
 }
 
 .blackicons {
     color: black;
+    margin-top: 10px;
 }
 
 .description {
