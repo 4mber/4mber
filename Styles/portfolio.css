@@ -59,9 +59,6 @@ article:last-of-type {
 .left {
     width: 50%;
     text-align: left;
-    font-size: 4em;
-    margin-top: 7px;
-    line-height: 150%;
 }
 
 .right {
