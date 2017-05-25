@@ -659,7 +659,7 @@ a.four-top {
 		width: 37px;
 	}
 	#home {
-		height: 620px;
+		height: 695px;
 	}
 	#home-head {
 		padding-top: 140px;
@@ -671,7 +671,7 @@ a.four-top {
 		font-size: 70px;
 	}
 	#work {
-		height: 1350px;
+		height: 1390px;
 	}
 	#projects {
 		display: none;
@@ -681,7 +681,7 @@ a.four-top {
 		margin-top: 20px;
 	}
 	#contact {
-		height: 680px;
+		height: 710px;
     	background-position: -700px;
     	padding-top: 40px;
 	}
@@ -705,7 +705,7 @@ a.four-top {
 		width: 50px;
 	}
 	#about {
-		height: 580px;
+		height: 710px;
 	}
 	#hello {
 		padding-top: 0;
@@ -727,7 +727,7 @@ a.four-top {
 		text-align: center;
 	}
 	footer {
-		margin-top: 55px;
+		margin-top: 45px;
 	}
 }
 /* Mobile Regular - iPhone 6, etc. */
@@ -788,7 +788,7 @@ a.four-top {
 		width: 50px;
 	}
 	#about {
-		height: 560px;
+		height: 645px;
 	}
 	#hello {
 		padding-top: 0;
@@ -810,7 +810,7 @@ a.four-top {
 		text-align: center;
 	}
 	footer {
-		margin-top: 46px;
+		margin-top: 40px;
 	}
 }
 /* Mobile Small - iPhone 5, etc. */
@@ -822,7 +822,7 @@ a.four-top {
 		width: 37px;
 	}
 	#home {
-		height: 92vh;
+		height: 525px;
 	}
 	#home-head {
 		padding-top: 100px;
@@ -834,7 +834,7 @@ a.four-top {
 		font-size: 70px;
 	}
 	#work {
-		height: 242vh;
+		height: 1350px;
 	}
 	#projects {
 		display: none;
@@ -844,7 +844,7 @@ a.four-top {
 		margin-top: 20px;
 	}
 	#contact {
-		height: 100vh;
+		height: 560px;
     	background-position: -700px;
     	padding-top: 20px;
 	}
@@ -871,7 +871,7 @@ a.four-top {
 		width: 50px;
 	}
 	#about {
-		height: 100vh;
+		height: 566px;
 	}
 	#hello {
 		padding-top: 0;
