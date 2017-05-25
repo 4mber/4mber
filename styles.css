@@ -810,7 +810,7 @@ a.four-top {
 		text-align: center;
 	}
 	footer {
-		margin-top: 20px;
+		margin-top: 0;
 	}
 }
 /* Mobile Small - iPhone 5, etc. */
