@@ -727,7 +727,7 @@ a.four-top {
 		text-align: center;
 	}
 	footer {
-		margin-top: 45px;
+		margin-top: 50px;
 	}
 }
 /* Mobile Regular - iPhone 6, etc. */
@@ -810,7 +810,7 @@ a.four-top {
 		text-align: center;
 	}
 	footer {
-		margin-top: 0;
+		margin-top: 10px;
 	}
 }
 /* Mobile Small - iPhone 5, etc. */
@@ -894,6 +894,6 @@ a.four-top {
 		text-align: center;
 	}
 	footer {
-		margin-top: 58px;
+		margin-top: 65px;
 	}
 }
