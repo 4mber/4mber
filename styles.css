@@ -292,7 +292,7 @@ a.four-home {
 }
 #home {
 	background:
-	url('images/float4.png');
+	url('images/float4.jpg');
 	background-size: cover;
 	height: 96vh;
 	-webkit-box-shadow: 0px 0px 17px 0px rgba(0, 0, 0, 0.35);
@@ -343,7 +343,7 @@ a.four-home {
 	width: 100%;
 	padding-top: 120px;
 	text-align: center;
-	background-image: url("images/coffee.png");
+	background-image: url("images/coffee.jpg");
 	background-size: cover;
 	-webkit-box-shadow: 0px 0px 17px 0px rgba(0, 0, 0, 0.35);
  	-moz-box-shadow: 0px 0px 17px 0px rgba(0, 0, 0, 0.35);
@@ -407,7 +407,7 @@ a.four-home {
 }
 #about {
 	height: 800px;
-	background: url("images/aboutBG.png");
+	background: url("images/aboutBG.jpg");
 	background-size: cover;
 	-webkit-box-shadow: inset 0px 9px 25px -18px black;
  	-moz-box-shadow: inset 0px 9px 25px -18px black;
@@ -580,7 +580,7 @@ a.four-top {
 	      rgba(255, 255, 255, 0.5),
 	      rgba(255, 255, 255, 0.5)
         ),
-        url("images/aboutBG.png");
+        url("images/aboutBG.jpg");
 	    background-position: -310px;
 	}
 	#about-content {
@@ -635,7 +635,7 @@ a.four-top {
 	      rgba(255, 255, 255, 0.5),
 	      rgba(255, 255, 255, 0.5)
         ),
-        url("images/aboutBG.png");
+        url("images/aboutBG.jpg");
 	    background-position: -465px;
 	}
 	#hello {
